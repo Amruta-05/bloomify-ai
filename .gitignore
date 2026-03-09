@@ -47,3 +47,5 @@ Thumbs.db
 uploads/
 tmp/
 Backend/upload/
+*.mp4
+*.pdf
