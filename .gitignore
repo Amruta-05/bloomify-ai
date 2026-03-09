@@ -1,0 +1,49 @@
+# -----------------------------
+# Python
+# -----------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Python virtual environments
+.venv/
+venv/
+Backend/.venv/
+
+# -----------------------------
+# Machine Learning models
+# -----------------------------
+*.keras
+*.h5
+*.pt
+*.pkl
+*.joblib
+
+# -----------------------------
+# Node / React
+# -----------------------------
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# -----------------------------
+# Environment variables
+# -----------------------------
+.env
+.env.local
+.env.*.local
+
+# -----------------------------
+# OS files
+# -----------------------------
+.DS_Store
+Thumbs.db
+
+# -----------------------------
+# Uploads / temporary files
+# -----------------------------
+uploads/
+tmp/
+Backend/upload/
